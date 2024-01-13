@@ -20,5 +20,7 @@ This is my own solution for [Longest-Common-Prefix](https://leetcode.com/problem
 > In this solution for giving ideas in your development
 
 > [!TIP]
-> Helpful advice for doing these.
+> Try to solve this puzzle by creating algorithm 
+> Make sure that it is working correctly
+> if any solution available for exercise, give a try
 
